@@ -43,7 +43,7 @@
                 <artifactId>flyway-maven-plugin</artifactId>
                 <version>11.17.0</version>
                 <configuration>
-                    <url>jdbc:mariadb://192.168.56.213:3306/ITI</url>
+                    <url>jdbc:mariadb://mariadb:3306/ITI</url>
                     <user>root</user>
                     <password>uminho</password>
                     <schemas>
