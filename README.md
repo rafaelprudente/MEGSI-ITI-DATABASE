@@ -12,5 +12,5 @@
 | [repair](https://documentation.red-gate.com/fd/reference/commands/repair)                                                                    |Repairs the schema history table|
 
 ```
-mvn flayway:info
+mvn flyway:info
 ```
